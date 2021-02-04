@@ -1,5 +1,5 @@
 my:
- greeting: Hello World changed nine times
+ greeting: Hello World changed ten times
 management:
  endpoints:
   web:
