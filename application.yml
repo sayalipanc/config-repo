@@ -1,2 +1,7 @@
 my:
  greeting: Hello World changed seven times
+management:
+ endpoints:
+  web:
+   exposure:
+    include: "*"
